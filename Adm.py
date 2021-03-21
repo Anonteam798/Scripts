@@ -232,7 +232,7 @@ def menu_Actualizador():
 if __name__ == "__main__":
 
 	ipclaro= "45.79.48.104"
-	ipmovistar = "192.53.162.9"
+	ipmovistar = "209.151.155.39"
 	
 	opciones = """
 	1) Ingresar usuario recovery
