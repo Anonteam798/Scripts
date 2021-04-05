@@ -21,7 +21,7 @@ try:
 except Exception as e:
     pass
 
-cleaner = "cls"
+cleaner = "clear"
 
 conexion = sqlite3.connect("recoveri.db")
 cursor = conexion.cursor()
