@@ -1,2 +1,4 @@
 # Scripts
-Script administrador de usuario reinciados 
+Script administrador Externo
+
+Code By: Barto
