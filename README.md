@@ -6,24 +6,24 @@
 
 
 ## =$=$=$=$ Instalacion de Adm.py MrAquiles =$=$=$=$
-'''
-apt update && apt upgrade -y
-'''
 
-_pkg install python -y
+    apt update && apt upgrade -y
 
-_pkg install git -y
 
-_git clone https://github.com/Anonteam798/Scripts.git
+    pkg install python -y
 
-_cd Scripts
+    pkg install git -y
 
-_ls 
+    git clone https://github.com/Anonteam798/Scripts.git
 
-_pip install -r requirements.txt
+    cd Scripts
 
-_chmod +x Adm.py
+    ls 
 
-_mv ./*.* ..
+    pip install -r requirements.txt
 
-_python Adm.py
+    chmod +x Adm.py
+
+    mv ./*.* ..
+
+    python Adm.py
