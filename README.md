@@ -1,28 +1,28 @@
 # Scripts
 
-Script administrador Externo
+### Script administrador Externo
 
     Code By: MrAquiles
 
 
-=$=$=$=$ Instalacion de Adm.py MrAquiles =$=$=$=$
+## =$=$=$=$ Instalacion de Adm.py MrAquiles =$=$=$=$
 
-apt update && apt upgrade -y
+_apt update && apt upgrade -y
 
-pkg install python -y
+_pkg install python -y
 
-pkg install git -y
+_pkg install git -y
 
-git clone https://github.com/Anonteam798/Scripts.git
+_git clone https://github.com/Anonteam798/Scripts.git
 
-cd Scripts
+_cd Scripts
 
-ls 
+_ls 
 
-pip install -r requirements.txt
+_pip install -r requirements.txt
 
-chmod +x Adm.py
+_chmod +x Adm.py
 
-mv ./*.* ..
+_mv ./*.* ..
 
-python Adm.py
+_python Adm.py
