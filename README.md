@@ -6,8 +6,9 @@
 
 
 ## =$=$=$=$ Instalacion de Adm.py MrAquiles =$=$=$=$
-
-_apt update && apt upgrade -y
+'''
+apt update && apt upgrade -y
+'''
 
 _pkg install python -y
 
